@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH6Arrays", "CH6Arrays\CH6A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH7Methods", "CH7Methods\CH7Methods.csproj", "{C7C81D01-5C32-4357-B061-7C51E440492F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH8AdvancedMethodConcepts", "CH8AdvancedMethodConcepts\CH8AdvancedMethodConcepts.csproj", "{9A41D875-B424-4ED4-B48B-9F020153BD14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C7C81D01-5C32-4357-B061-7C51E440492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C81D01-5C32-4357-B061-7C51E440492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C81D01-5C32-4357-B061-7C51E440492F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A41D875-B424-4ED4-B48B-9F020153BD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A41D875-B424-4ED4-B48B-9F020153BD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A41D875-B424-4ED4-B48B-9F020153BD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A41D875-B424-4ED4-B48B-9F020153BD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
