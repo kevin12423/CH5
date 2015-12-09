@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH10Inheritance", "CH10Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH11Exceptions", "CH11Exceptions\CH11Exceptions.csproj", "{EF9ECCE6-26D8-44AF-A003-D529B614BF4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH14FileStreams", "CH14FileStreams\CH14FileStreams.csproj", "{FF9C6738-B9F1-4F7B-82CE-F61EC2D68F9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{EF9ECCE6-26D8-44AF-A003-D529B614BF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF9ECCE6-26D8-44AF-A003-D529B614BF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF9ECCE6-26D8-44AF-A003-D529B614BF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9C6738-B9F1-4F7B-82CE-F61EC2D68F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9C6738-B9F1-4F7B-82CE-F61EC2D68F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9C6738-B9F1-4F7B-82CE-F61EC2D68F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9C6738-B9F1-4F7B-82CE-F61EC2D68F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
