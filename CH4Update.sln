@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH8AdvancedMethodConcepts",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH9UsingClassesandObjects", "CH9UsingClassesandObjects\CH9UsingClassesandObjects.csproj", "{7BC712E7-4A41-48BD-82F8-0C7E8D864070}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH10Inheritance", "CH10Inheritance\CH10Inheritance.csproj", "{89F322EE-D7AD-472D-8538-186A85B65739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7BC712E7-4A41-48BD-82F8-0C7E8D864070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BC712E7-4A41-48BD-82F8-0C7E8D864070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BC712E7-4A41-48BD-82F8-0C7E8D864070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F322EE-D7AD-472D-8538-186A85B65739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F322EE-D7AD-472D-8538-186A85B65739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F322EE-D7AD-472D-8538-186A85B65739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F322EE-D7AD-472D-8538-186A85B65739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
