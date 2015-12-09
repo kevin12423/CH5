@@ -8,6 +8,7 @@ namespace lab8
 {
     class Program
     {
+        //ffvfvfv
         static void Main(string[] args)
         {
             Console.WriteLine("enter r, p, s");
